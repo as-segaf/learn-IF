@@ -1,0 +1,12 @@
+#!/bin/bash
+
+ANGKAPERTAMA="8"
+ANGKAKEDUA="7"
+
+if [ "ANGKAPERTAMA" > "ANGKAKEDUA" ]
+
+then 
+	echo "Yes, you right"
+else
+	echo "No, you wrong"
+fi
